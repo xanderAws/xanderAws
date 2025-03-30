@@ -1,3 +1,7 @@
+<header>
+    <img src="github-header-image (1).png" alt="Banner Personal" width="100%">
+</header>
+
 <h1 align="center">Hola 👋, Soy Alex</h1>
 <h3 align="center">Ingeniero en Sistemas (en formación) con experiencia en desarrollo web, administración de redes y soporte técnico. Apasionado por la seguridad informática y la gestión de infraestructura TI.</h3>
 
