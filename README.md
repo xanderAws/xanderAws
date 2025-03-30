@@ -2,14 +2,14 @@
     <img src="https://github.com/xanderAws/banner/blob/main/github-header-image%20(1).png?raw=true" alt="Banner Personal" width="100%">
 </header>
 
-<h1 align="center">Hola 👋, Soy Alex</h1>
+<h1 align="center">Hola 👋, Tomate tu tiempo!</h1>
 <h3 align="center">Ingeniero en Sistemas (en formación) con experiencia en desarrollo web, administración de redes y soporte técnico. Apasionado por la seguridad informática y la gestión de infraestructura TI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanderaws&label=Profile%20views&color=0e75b6&style=flat" alt="xanderaws" /> </p>
 
 - 🔭 Actualmente estoy trabajando en un proyecto de empresa de soporte tecnico, desarrollo web y redes. [Cygnus-TI](https://cygnus-ti.com/)
 
-- 🌱 Actualmente estoy conllevando **Redes Lan-Networking y SQL.**
+- 🌱 Estoy conllevando **Redes Lan-Networking y SQL.**
 
 - 👯 Busco colaborar en cualquier de las siguientes areas: Sql Administrador, programador .NET, C++ o Soporte Tecnico. **Junior**
 
