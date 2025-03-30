@@ -1,5 +1,5 @@
 <header>
-    <img src="github-header-image (1).png" alt="Banner Personal" width="100%">
+    <img src="https://github.com/xanderAws/banner/blob/main/github-header-image%20(1).png?raw=true" alt="Banner Personal" width="100%">
 </header>
 
 <h1 align="center">Hola 👋, Soy Alex</h1>
